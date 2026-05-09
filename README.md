@@ -1,20 +1,75 @@
-<<<<<<< HEAD
-# finance_app
+# 💰 Finance App
 
-A new Flutter project.
+**Finance App** — это кроссплатформенное мобильное приложение на Flutter для управления личными финансами.
+Оно помогает отслеживать доходы, расходы, долги, цели накоплений и аналитику трат в удобном и современном интерфейсе.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Возможности
 
-A few resources to get you started if this is your first Flutter project:
+* 📊 Отслеживание доходов и расходов
+* 🧾 Категоризация транзакций
+* 💳 Управление долгами
+* 🎯 Финансовые цели и накопления
+* 📈 Статистика и графики расходов
+* ⚡ Быстрое добавление транзакций
+* 📅 Анализ по периодам
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# finance_app
->>>>>>> 3ebdd64283bae820816e0e40acd54bcad3a88e77
+## 🧠 Особенности архитектуры
+
+* Flutter + Provider (или Riverpod, если используешь)
+* Разделение логики и UI
+* Модульная структура проекта
+* Лёгкая масштабируемость
+
+---
+
+## 🚀 Как запустить проект
+
+### 1. Клонировать репозиторий
+
+```bash
+git clone https://github.com/sherzatov1/finance_app.git
+```
+
+---
+
+### 2. Перейти в папку проекта
+
+```bash
+cd finance_app
+```
+
+---
+
+### 3. Установить зависимости
+
+```bash
+flutter pub get
+```
+
+---
+
+### 4. Запустить приложение
+
+```bash
+flutter run
+```
+
+---
+
+## 📱 Требования
+
+* Flutter SDK (последняя версия рекомендуется)
+* Dart SDK
+* Android Studio / VS Code
+* Эмулятор или реальное устройство
+
+---
+
+## 📌 Примечание
+
+Проект находится в активной разработке.
+Функционал и дизайн могут обновляться.
